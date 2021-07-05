@@ -1,0 +1,10 @@
+ReactHTTPRequests test project
+
+A test project to learn fundamentals of using axios.
+
++ post requests
++ get requests
++ error catching and handling
++ using promises for catching errors asynchronously
++ using interceptors
++ using instances for custom axios objects
